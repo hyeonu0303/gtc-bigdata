@@ -13,7 +13,7 @@ const Page4=()=> {
   return (
     <Area>
       <Title>여러분은 반려동물을 버려본 적이 있으신가요?</Title>
-      <Img src="/img/abandoned_animal.png"></Img>
+      <Img src="../img/abandoned_animal.png"></Img>
     </Area>
   );
 }

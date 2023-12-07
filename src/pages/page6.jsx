@@ -28,8 +28,8 @@ const Page6 = () => {
     <Area>
       <h1>그렇다면, 사람들은 <RedText>왜 동물을 버릴까요?</RedText></h1>
       <ImgArea>
-        <Img src="/img/abandoned_animal_2.jpg"></Img>
-        <Img src="/img/abandoned_animal_3.jpg"></Img>
+        <Img src="../img/abandoned_animal_2.jpg"></Img>
+        <Img src="../img/abandoned_animal_3.jpg"></Img>
       </ImgArea>
     </Area>
   );

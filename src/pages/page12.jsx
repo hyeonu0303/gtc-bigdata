@@ -20,7 +20,7 @@ const Page12 = () => {
       </div>
       <Body>
         <div>
-          <Img src="/img/happy_animal.png"></Img>
+          <Img src="../img/happy_animal.png"></Img>
         </div>
         <div>
           <p>
