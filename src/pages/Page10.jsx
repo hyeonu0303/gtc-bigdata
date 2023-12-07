@@ -30,6 +30,9 @@ const Page10 = () => {
       title: {
         display: true,
         text: '자치구별 재산과 유기동물수 통계',
+        font:{
+          size:40
+        }
       },
     },
   };

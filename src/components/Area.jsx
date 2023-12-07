@@ -9,6 +9,7 @@ const Area = styled.div`
   text-align: center;
   display: flex;
   flex-direction: column;
+  font-size: 30px;
 `;
 
 export default Area; // Container 내보내기

@@ -30,6 +30,9 @@ const options = {
     title: {
       display: true,
       text: '개,고양이 시기별 안락사비율',
+      font:{
+        size:40
+      }
     },
   },
 };

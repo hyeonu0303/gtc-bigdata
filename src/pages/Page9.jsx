@@ -12,8 +12,8 @@ const Title = styled.h1`
 const Page4=()=> {
   return (
     <Area>
-      <Title>그렇다면, 도대체, 왜, 동물을 버릴까요?</Title>
-      <Img src="../img/abandoned_animal.png"></Img>
+      <Title>그렇다면, 사람들은 도대체 왜 동물을 버릴까요?</Title>
+      <Img src="/gtc-bigdata/img/abandoned_animal.png"></Img>
     </Area>
   );
 }

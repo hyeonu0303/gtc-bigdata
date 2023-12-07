@@ -30,7 +30,10 @@ const Page11 = () => {
       },
       title: {
         display: true,
-        text: '높은재산세통계',
+        text: '재산세(소득) 상위 3개구',
+        font:{
+          size:30
+        }
       },
     },
   };
@@ -42,7 +45,10 @@ const Page11 = () => {
       },
       title: {
         display: true,
-        text: '낮은재산세통계',
+        text: '재산세(소득) 하위 3개구',
+        font:{
+          size:30
+        }
       },
     },
   };

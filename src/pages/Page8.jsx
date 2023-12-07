@@ -32,6 +32,7 @@ const Page8= () => {
       title: {
         display: true,
         text: '병원과 유기동물 통계',
+        size:40
       },
     },
   };

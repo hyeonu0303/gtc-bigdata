@@ -11,7 +11,7 @@ const Page2=()=> {
   return (
     <Area>
       <h1>여러분은 반려둥물을 키우고 계신가요?</h1>
-      <Img src="../img/cutepet.png"></Img>
+      <Img src="/gtc-bigdata/img/cutepet.png"></Img>
     </Area>
   );
 }

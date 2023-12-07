@@ -31,6 +31,9 @@ const Page3 = () => {
       title: {
         display: true,
         text: '자치구별 인구수 대비 반려인 통계',
+        font:{
+          size:40
+        }
       },
     },
   };
