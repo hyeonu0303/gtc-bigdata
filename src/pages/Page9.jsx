@@ -6,13 +6,13 @@ const Img = styled.img`
   width: 60%;
 `
 const Title = styled.h1`
-  color: red;
+  color: black;
 `
 
 const Page4=()=> {
   return (
     <Area>
-      <Title>그렇다면, 사람들은 도대체 왜 동물을 버릴까요?</Title>
+      <Title>그렇다면, 유기 동물이 왜 생길까요?</Title>
       <Img src="/gtc-bigdata/img/abandoned_animal.png"></Img>
     </Area>
   );

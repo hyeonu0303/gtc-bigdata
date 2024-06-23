@@ -33,6 +33,9 @@ const Page7 = () => {
       title: {
         display: true,
         text: '자치구별 인구수와 유기동물 통계',
+        font:{
+          size:40
+        }
       },
     },
   };

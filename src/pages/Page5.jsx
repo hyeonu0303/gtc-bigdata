@@ -31,7 +31,7 @@ const Page5 = () => {
       title: {
         display: true,
         text: '자치구별 유기동물수 통계',
-        size:{
+        font:{
           size:40
         }
       },
